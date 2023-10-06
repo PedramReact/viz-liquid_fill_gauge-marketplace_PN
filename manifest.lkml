@@ -12,6 +12,6 @@ constant: VIS_ID {
 
 visualization: {
   id: "@{VIS_ID}"
-  url: "https://marketplace-api.looker.com/viz-dist/liquid_fill_gauge.js"
+  url: "https://raw.githubusercontent.com/PedramReact/TestOrgVis/main/graph.js"
   label: "@{VIS_LABEL}"
 }
